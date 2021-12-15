@@ -3,8 +3,12 @@ A lightweight &amp; portable Arch ISO environment.
 
 ***
 
+# Do not use Ventoy or any similar tools - it will just kernel panic at startup.
+
+***
+
 ## Prerequisites
-- A USB drive and a way to flash it (Etcher works just fine, Ventoy should work here too)
+- A USB drive and a way to flash it (Etcher works just fine)
 - (for ISO building) an Arch-based system already deployed with archiso
 
 ***
