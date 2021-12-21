@@ -16,7 +16,9 @@ A lightweight &amp; portable Arch ISO environment.
 ## Using pre-built ISO images
 Flash the ISO to a USB drive, then boot to it. You'll need to disable Secure Boot for this as of now. You can log into the root account by just using the "root" username, as there is no password for it.
 
-You can enter an ArchTitties environment by entering the archtitties directory, then running `./ArchTitties`.
+As of 221221, you can enter an ArchTitties environment by running `./ArchTitties`.
+
+For 151221, you can enter an ArchTitties environment by entering the archtitties directory, then running `./ArchTitties.`
 
 ## Why is it called ArchCiggies?
 Also purely for comedic value. It isn't an acronym for anything, I just thought it was memorable. Also another suggested name.
