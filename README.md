@@ -3,12 +3,12 @@ A lightweight &amp; portable Arch ISO environment.
 
 ***
 
-# Do not use Ventoy or any similar tools - it will just kernel panic at startup.
+# WARNING: Pre-compiled releases have stopped as of version 221221. It's became too much of a hassle.
 
 ***
 
 ## Prerequisites
-- A USB drive and a way to flash it (Etcher works just fine)
+- A USB drive and a way to flash it (Etcher works just fine) **Don't use Ventoy or similar tools.**
 - (for ISO building) an Arch-based system already deployed with archiso
 
 ***
