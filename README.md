@@ -1,3 +1,5 @@
+# Archived as of January 2023. Shifting away.
+
 # ArchCiggies
 A lightweight &amp; portable Arch ISO environment.
 
